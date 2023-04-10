@@ -1,0 +1,8 @@
+table, th, td{
+  
+    borde-collapse: collapse
+}    
+td, th{
+    border-top: 2px black solid
+    border-bottom: 2px black solid
+}

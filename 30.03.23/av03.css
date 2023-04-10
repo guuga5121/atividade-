@@ -1,0 +1,17 @@
+table, td{
+    border: 1px solid black;
+    border-collapse: collapse; /*collapsem borda única*/
+}
+
+table{
+    width: 300px; 
+    height: 70px;
+}
+
+
+.linha2{
+    background-color: tomato;
+}
+td{
+    border-radius: 10px; /*borda arredondada*/
+}

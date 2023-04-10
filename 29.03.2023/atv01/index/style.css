@@ -1,0 +1,21 @@
+.tituloPrincipal{
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+
+}
+.aprenda{
+    text-align: right;
+}
+.justi{
+    text-align: justify;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: red;
+    text-decoration: underline
+}
